@@ -1,0 +1,4 @@
+[{"_id":{"$oid":"638474ca3a2a240027f2d186"},"todo":"Nộp bài tập lớn","author":"Nguyễn Văn A","deadlineId":"638473f53a2a240027f2d162","__v":0},
+{"_id":{"$oid":"638474de3a2a240027f2d18b"},"todo":"Nộp bài tập lớn","author":"Trần Thị H","deadlineId":"638473f53a2a240027f2d162","__v":0},
+{"_id":{"$oid":"6384750c3a2a240027f2d196"},"todo":"Thi học kỳ","author":"Trà Văn B","deadlineId":"638474e73a2a240027f2d191","__v":0},
+{"_id":{"$oid":"6384752f3a2a240027f2d19c"},"todo":"Thi cuối kỳ học phần phát triển web","author":"Đỗ Thị Th","deadlineId":"638474e73a2a240027f2d191","__v":0}]
